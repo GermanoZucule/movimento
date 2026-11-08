@@ -31,3 +31,5 @@ node checks/offline.cjs
 ```
 
 Para alojar, serve a pasta dist na raiz do domínio. Os caminhos do service worker são absolutos; GitHub Pages numa subpasta exige adaptação. O endereço actualmente alojado é https://germano-calistenia-guia.djimbitoman.chatgpt.site.
+
+A cópia pública utiliza um perfil genérico, sem dados pessoais de saúde predefinidos. As ilustrações foram optimizadas para reduzir o tamanho do projecto.
